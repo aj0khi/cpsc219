@@ -5,6 +5,34 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "Area",
+            "projectName": "cpsc219_a93f653e"
+        },
+        {
+            "type": "java",
+            "name": "TemperatureChange",
+            "request": "launch",
+            "mainClass": "TemperatureChange",
+            "projectName": "cpsc219_a93f653e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "cpsc219_a93f653e"
+        },
+        {
+            "type": "java",
+            "name": "helloworld",
+            "request": "launch",
+            "mainClass": "helloworld",
+            "projectName": "cpsc219_a93f653e"
+        },
+        {
             "name": "Run main.py",
             "type": "debugpy",
             "request": "launch",
