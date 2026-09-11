@@ -7,6 +7,7 @@ def main():
     print(format_reading(-12.5, label = "Airport", unit = "C", decimal = 3))
     print(add_reading_wrong(1.0))
     print(add_reading_wrong(2.0))
+    print(add_reading_wrong(3.0))
 if __name__ == "__main__":
     main()
     sys.exit(0)

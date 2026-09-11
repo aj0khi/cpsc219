@@ -37,7 +37,9 @@ def format_reading(
 
 
 
-def add_reading_wrong(value: float, readings: list = [float]| None == None) -> list[float]:
+def add_reading_wrong(
+    value: float, readings: list[float] | None = None
+) -> list[float]:
     """
     Add a reading to a list without sharing state between calls.
 
